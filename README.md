@@ -511,7 +511,7 @@ retrieve
 ### 1. Clone
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone https://github.com/4rr35fd3d6/agentic-paper-assistant.git
 cd agentic-paper-assistant
 ```
 
