@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Runtime logs
+logs/
+*.log
+
+# Streamlit / RAG runtime data
+data/day23_uploads/
+data/day23_cache/
+
+# Local model and editor caches
+.cache/
+.huggingface/
+.vscode/
+.idea/
